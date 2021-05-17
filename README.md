@@ -1,2 +1,2 @@
 # somando-valores
- somador de valores
+ Projeto criado durante um curso online de javascript.
